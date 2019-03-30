@@ -13,7 +13,7 @@ using Nancy.TinyIoc;
  * 
  */
 
-namespace Nancy_API_Shell
+namespace Nancy_API_Shell_Console
 {
     public class CustomNancyBootstrapper : DefaultNancyBootstrapper
     {

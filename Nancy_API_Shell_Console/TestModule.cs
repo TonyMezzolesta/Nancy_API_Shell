@@ -16,7 +16,7 @@ using System;
  * 
  */
 
-namespace Nancy_API_Shell
+namespace Nancy_API_Shell_Console
 {
     public class TestModule : NancyModule
     {
