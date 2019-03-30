@@ -1,3 +1,5 @@
+![Image description](http://blog.jonathanchannon.com/images/blogpostimages/nancy-horizontal-framed-bf-wb-620x240.png)
+
 # Nancy Rest API Shell
 
  Default Nancy Rest API Console App/Windows Service
